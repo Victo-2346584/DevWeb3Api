@@ -11,7 +11,7 @@ import ENV from '@src/common/constants/ENV';
 import HttpStatusCodes from '@src/common/constants/HttpStatusCodes';
 import { RouteError } from '@src/common/util/route-errors';
 import { NodeEnvs } from '@src/common/constants';
-
+import authenticateToken from './services/authenticateToken';
 
 /******************************************************************************
                                 Setup
@@ -19,12 +19,11 @@ import { NodeEnvs } from '@src/common/constants';
 
 const app = express();
 
-
 // **** Middleware **** //
 
 // Basic middleware
 app.use(express.json());
-app.use(express.urlencoded({extended: true}));
+app.use(express.urlencoded({ extended: true }));
 
 // Show routes called in console during development
 if (ENV.NodeEnv === NodeEnvs.Dev) {
@@ -38,7 +37,7 @@ if (ENV.NodeEnv === NodeEnvs.Production) {
     app.use(helmet());
   }
 }
-
+app.use(authenticateToken);
 // Add APIs, must be after middleware
 app.use(Paths.Base, BaseRouter);
 
@@ -54,7 +53,6 @@ app.use((err: Error, _: Request, res: Response, next: NextFunction) => {
   }
   return next(err);
 });
-
 
 // **** FrontEnd Content **** //
 
@@ -75,7 +73,6 @@ app.get('/', (_: Request, res: Response) => {
 app.get('/users', (_: Request, res: Response) => {
   return res.sendFile('users.html', { root: viewsDir });
 });
-
 
 /******************************************************************************
                                 Export default

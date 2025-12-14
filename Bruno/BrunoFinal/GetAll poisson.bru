@@ -1,0 +1,16 @@
+meta {
+  name: GetAll poisson
+  type: http
+  seq: 12
+}
+
+get {
+  url: http://localhost:3000/api/espece-poisson/all
+  body: none
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

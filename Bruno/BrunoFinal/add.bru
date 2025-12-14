@@ -1,0 +1,33 @@
+meta {
+  name: add
+  type: http
+  seq: 5
+}
+
+post {
+  url: http://localhost:3000/api/captures/add
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "capture": {
+      "espece": "test",
+      "tailleCm": 39,
+      "poidsKg": 1.1,
+      "dateCapture": "2024-10-10T00:00:00.000Z",
+      "remisALeau": true,
+      "technique": "Mouche sèche",
+      "lieu": "Rivière Montmorency",
+      "conditionsMeteo": "Partiellement nuageux",
+      "temperatureEau": 11,
+      "notes": ["Très belle couleur"]
+    }
+  }
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

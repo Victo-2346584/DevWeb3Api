@@ -1,7 +1,7 @@
 import jetEnv, { num, str } from 'jet-env';
 import { isEnumVal } from 'jet-validators';
 
-import { NodeEnvs } from '.';
+import { NodeEnvs } from './constants';
 
 /******************************************************************************
                                  Setup
