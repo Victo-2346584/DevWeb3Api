@@ -1,0 +1,29 @@
+meta {
+  name: ObtenirToken
+  type: http
+  seq: 2
+}
+
+post {
+  url: https://poissonapi-cuf0cuhzgmbgh6h8.canadacentral-01.azurewebsites.net/api/generatetoken/
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "utilisateur":{
+      "courriel":"Test@gmail.com",
+      "motPasse":"Qwerty123"
+    }
+  }
+}
+
+script:post-response {
+  bru.setEnvVar('jwttoken', res.body.token)
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

@@ -1,0 +1,34 @@
+meta {
+  name: update
+  type: http
+  seq: 6
+}
+
+put {
+  url: http://localhost:3000/api/captures/update
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "capture": {
+      "_id": "693dca2e5ba79240f097fa1a",
+      "espece": "Omble de fontaine",
+      "tailleCm": 60,
+      "poidsKg": 2,
+      "dateCapture": "2024-10-10T00:00:00.000Z",
+      "remisALeau": true,
+      "technique": "Mouche sèche",
+      "lieu": "Rivière Montmorency",
+      "conditionsMeteo": "Partiellement nuageux",
+      "temperatureEau": 11,
+      "notes": ["Très belle couleur"]
+    }
+  }
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}
