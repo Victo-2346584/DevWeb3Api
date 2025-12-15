@@ -4,17 +4,17 @@ meta {
   seq: 2
 }
 
-get {
-  url: https://projetweb3-egb7ashnahhwh7fv.canadacentral-01.azurewebsites.net:8081/api/generatetoken/
+post {
+  url: https://projetweb3-egb7ashnahhwh7fv.canadacentral-01.azurewebsites.net/api/generatetoken/
   body: json
-  auth: inherit
+  auth: none
 }
 
 body:json {
   {
-    "utilisateur":{
-      "courriel":"Test@gmail.com",
-      "motPasse":"Qwerty123"
+    "utilisateur": {
+      "courriel": "Test@gmail.com",
+      "motPasse": "Qwerty123"
     }
   }
 }
