@@ -1,0 +1,2159 @@
+[{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0b7"
+  },
+  "Nom_francais": "Achigan à grande bouche",
+  "Nom_anglais": "Largemouth Bass",
+  "Nom_scientifique": "Micropterus nigricans"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0b8"
+  },
+  "Nom_francais": "Achigan à petite bouche",
+  "Nom_anglais": "Smallmouth Bass",
+  "Nom_scientifique": "Micropterus dolomieu"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0b9"
+  },
+  "Nom_francais": "Agone atlantique",
+  "Nom_anglais": "Atlantic Poacher",
+  "Nom_scientifique": "Leptagonus decagonus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0ba"
+  },
+  "Nom_francais": "Aiglefin",
+  "Nom_anglais": "Haddock",
+  "Nom_scientifique": "Melanogrammus aeglefinus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0bb"
+  },
+  "Nom_francais": "Aiguillat commun",
+  "Nom_anglais": "Spiny Dogfish",
+  "Nom_scientifique": "Squalus acanthias"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0bc"
+  },
+  "Nom_francais": "Aiguillat noir",
+  "Nom_anglais": "Black Dogfish",
+  "Nom_scientifique": "Centroscyllium fabricii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0bd"
+  },
+  "Nom_francais": "Alose à gésier",
+  "Nom_anglais": "Gizzard Shad",
+  "Nom_scientifique": "Dorosoma cepedianum",
+  "Commentaires": "La migration de cette espèce à partir du Mississipi a été rendue possible grâce à l'établissement des canaux d'eau."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0be"
+  },
+  "Nom_francais": "Alose d'été",
+  "Nom_anglais": "Blueback Herring",
+  "Nom_scientifique": "Alosa aestivalis",
+  "Commentaires": "L'espèce est présente dans le Richelieu, originant de la partie américaine du Lac Champlain, mais l'espèce ne fut morphologiquement reconnue que tardivement. Observée dans les Grands Lacs en 1995 pour la première fois."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0bf"
+  },
+  "Nom_francais": "Alose savoureuse",
+  "Nom_anglais": "American Shad",
+  "Nom_scientifique": "Alosa sapidissima"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0c0"
+  },
+  "Nom_francais": "Anguille d'Amérique",
+  "Nom_anglais": "American Eel",
+  "Nom_scientifique": "Anguilla rostrata"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0c1"
+  },
+  "Nom_francais": "Anguille égorgée bécue",
+  "Nom_anglais": "Kaup's Arrowtooth Eel",
+  "Nom_scientifique": "Synaphobranchus kaupii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0c2"
+  },
+  "Nom_francais": "Avocette ruban",
+  "Nom_anglais": "Slender Snipe Eel",
+  "Nom_scientifique": "Nemichthys scolopaceus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0c3"
+  },
+  "Nom_francais": "Balaou",
+  "Nom_anglais": "Atlantic Saury",
+  "Nom_scientifique": "Scomberesox saurus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0c4"
+  },
+  "Nom_francais": "Bar blanc",
+  "Nom_anglais": "White Bass",
+  "Nom_scientifique": "Morone chrysops"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0c5"
+  },
+  "Nom_francais": "Bar rayé",
+  "Nom_anglais": "Striped Bass",
+  "Nom_scientifique": "Morone saxatilis",
+  "Commentaires": "Le fleuve Saint-Laurent abritait une population distincte de bars rayés laquelle est disparue à la fin des années 1960. La population du fleuve Saint-Laurent actuelle a été réintroduite à partir d'individus de la population du sud du golfe du Saint-Laurent."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0c6"
+  },
+  "Nom_francais": "Barbotte brune",
+  "Nom_anglais": "Brown Bullhead",
+  "Nom_scientifique": "Ameiurus nebulosus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0c7"
+  },
+  "Nom_francais": "Barbotte jaune",
+  "Nom_anglais": "Yellow Bullhead",
+  "Nom_scientifique": "Ameiurus natalis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0c8"
+  },
+  "Nom_francais": "Barbue de rivière",
+  "Nom_anglais": "Channel Catfish",
+  "Nom_scientifique": "Ictalurus punctatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0c9"
+  },
+  "Nom_francais": "Baret",
+  "Nom_anglais": "White Perch",
+  "Nom_scientifique": "Morone americana",
+  "Commentaires": "Espèce originaire des côtes Atlantique Nord et qui a migré via l'établissement des canaux d'eau."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0ca"
+  },
+  "Nom_francais": "Baudroie d'Amérique",
+  "Nom_anglais": "Goosefish",
+  "Nom_scientifique": "Lophius americanus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0cb"
+  },
+  "Nom_francais": "Beauclaire de roche",
+  "Nom_anglais": "Glasseye",
+  "Nom_scientifique": "Heteropriacanthus cruentatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0cc"
+  },
+  "Nom_francais": "Béryx commun",
+  "Nom_anglais": "Imperador",
+  "Nom_scientifique": "Beryx decadactylus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0cd"
+  },
+  "Nom_francais": "Brochet d'Amérique",
+  "Nom_anglais": "Redfin Pickerel",
+  "Nom_scientifique": "Esox americanus americanus",
+  "SOUS_ESPECE_POP": "americanus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0ce"
+  },
+  "Nom_francais": "Brochet maillé",
+  "Nom_anglais": "Chain Pickerel",
+  "Nom_scientifique": "Esox niger"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0cf"
+  },
+  "Nom_francais": "Brochet vermiculé",
+  "Nom_anglais": "Grass Pickerel",
+  "Nom_scientifique": "Esox americanus vermiculatus",
+  "SOUS_ESPECE_POP": "vermiculatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0d0"
+  },
+  "Nom_francais": "Brosme",
+  "Nom_anglais": "Cusk",
+  "Nom_scientifique": "Brosme brosme"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0d1"
+  },
+  "Nom_francais": "Capelan",
+  "Nom_anglais": "Capelin",
+  "Nom_scientifique": "Mallotus villosus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0d2"
+  },
+  "Nom_francais": "Capucette",
+  "Nom_anglais": "Atlantic Silverside",
+  "Nom_scientifique": "Menidia menidia"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0d3"
+  },
+  "Nom_francais": "Carpe commune",
+  "Nom_anglais": "Common Carp",
+  "Nom_scientifique": "Cyprinus carpio",
+  "Commentaires": "Le nom commun français diffère de celui utilisé dans la publication \"American Fisheries Society (2013) Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 7th edition\", mais sera révisé lors de la prochaine publication."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0d4"
+  },
+  "Nom_francais": "Carpe de roseau",
+  "Nom_anglais": "Grass Carp",
+  "Nom_scientifique": "Ctenopharyngodon idella"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0d5"
+  },
+  "Nom_francais": "Chaboisseau à dix-huit épines",
+  "Nom_anglais": "Longhorn Sculpin",
+  "Nom_scientifique": "Myoxocephalus octodecemspinosus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0d6"
+  },
+  "Nom_francais": "Chaboisseau à épines courtes",
+  "Nom_anglais": "Shorthorn Sculpin",
+  "Nom_scientifique": "Myoxocephalus scorpius"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0d7"
+  },
+  "Nom_francais": "Chaboisseau à quatre cornes",
+  "Nom_anglais": "Fourhorn Sculpin",
+  "Nom_scientifique": "Myoxocephalus quadricornis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0d8"
+  },
+  "Nom_francais": "Chaboisseau arctique",
+  "Nom_anglais": "Arctic Sculpin",
+  "Nom_scientifique": "Myoxocephalus scorpioides"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0d9"
+  },
+  "Nom_francais": "Chaboisseau bronzé",
+  "Nom_anglais": "Grubby",
+  "Nom_scientifique": "Myoxocephalus aenaeus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0da"
+  },
+  "Nom_francais": "Chabot à tête plate",
+  "Nom_anglais": "Spoonhead Sculpin",
+  "Nom_scientifique": "Cottus ricei"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0db"
+  },
+  "Nom_francais": "Chabot de profondeur",
+  "Nom_anglais": "Deepwater Sculpin",
+  "Nom_scientifique": "Myoxocephalus thompsonii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0dc"
+  },
+  "Nom_francais": "Chabot tacheté",
+  "Nom_anglais": "Mottled Sculpin",
+  "Nom_scientifique": "Cottus bairdii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0dd"
+  },
+  "Nom_francais": "Chabot visqueux",
+  "Nom_anglais": "Slimy Sculpin",
+  "Nom_scientifique": "Cottus cognatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0de"
+  },
+  "Nom_francais": "Chat-fou brun",
+  "Nom_anglais": "Tadpole Madtom",
+  "Nom_scientifique": "Noturus gyrinus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0df"
+  },
+  "Nom_francais": "Chat-fou des rapides",
+  "Nom_anglais": "Stonecat",
+  "Nom_scientifique": "Noturus flavus",
+  "Commentaires": "Le nom commun français diffère de celui utilisé dans la publication \"American Fisheries Society (2013) Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 7th edition\", mais sera révisé lors de la prochaine publication."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0e0"
+  },
+  "Nom_francais": "Chat-fou liséré",
+  "Nom_anglais": "Margined Madtom",
+  "Nom_scientifique": "Noturus insignis",
+  "Commentaires": "Espèce des côtes Atlantique Nord introduite par les canaux d'eau et dispersée ensuite comme appâts vivants."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0e1"
+  },
+  "Nom_francais": "Chauliode très lumineux",
+  "Nom_anglais": "Sloane's Viperfish",
+  "Nom_scientifique": "Chauliodus sloani"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0e2"
+  },
+  "Nom_francais": "Chevalier blanc",
+  "Nom_anglais": "Silver Redhorse",
+  "Nom_scientifique": "Moxostoma anisurum"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0e3"
+  },
+  "Nom_francais": "Chevalier cuivré",
+  "Nom_anglais": "Copper Redhorse",
+  "Nom_scientifique": "Moxostoma hubbsi"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0e4"
+  },
+  "Nom_francais": "Chevalier de rivière",
+  "Nom_anglais": "River Redhorse",
+  "Nom_scientifique": "Moxostoma carinatum"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0e5"
+  },
+  "Nom_francais": "Chevalier jaune",
+  "Nom_anglais": "Greater Redhorse",
+  "Nom_scientifique": "Moxostoma valenciennesi"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0e6"
+  },
+  "Nom_francais": "Chevalier rouge",
+  "Nom_anglais": "Shorthead Redhorse",
+  "Nom_scientifique": "Moxostoma macrolepidotum"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0e7"
+  },
+  "Nom_francais": "Chinchard frappeur",
+  "Nom_anglais": "Rough Scad",
+  "Nom_scientifique": "Trachurus lathami"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0e8"
+  },
+  "Nom_francais": "Choquemort",
+  "Nom_anglais": "Mummichog",
+  "Nom_scientifique": "Fundulus heteroclitus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0e9"
+  },
+  "Nom_francais": "Cisco de lac",
+  "Nom_anglais": "Cisco",
+  "Nom_scientifique": "Coregonus artedi",
+  "Commentaires": "Il s'agit d'une population confinée au lac des Écorces, près de Mont-Laurier et qui fraie au printemps plutôt qu'à l'automne. Selon les données actuelles, cette population frayant au printemps est unique au monde."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0ea"
+  },
+  "Nom_francais": "Cisco de printemps",
+  "Nom_anglais": "Spring Cisco",
+  "Nom_scientifique": "Coregonus artedi pop. 1",
+  "SOUS_ESPECE_POP": "pop. 1"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0eb"
+  },
+  "Nom_francais": "Cotte polaire",
+  "Nom_anglais": "Polar Sculpin",
+  "Nom_scientifique": "Cottunculus microps"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0ec"
+  },
+  "Nom_francais": "Couette",
+  "Nom_anglais": "Quillback",
+  "Nom_scientifique": "Carpiodes cyprinus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0ed"
+  },
+  "Nom_francais": "Crapet arlequin",
+  "Nom_anglais": "Bluegill",
+  "Nom_scientifique": "Lepomis macrochirus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0ee"
+  },
+  "Nom_francais": "Crapet de roche",
+  "Nom_anglais": "Rock Bass",
+  "Nom_scientifique": "Ambloplites rupestris"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0ef"
+  },
+  "Nom_francais": "Crapet du Nord",
+  "Nom_anglais": "Northern Sunfish",
+  "Nom_scientifique": "Lepomis peltastes"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0f0"
+  },
+  "Nom_francais": "Crapet vert",
+  "Nom_anglais": "Green sunfish",
+  "Nom_scientifique": "Lepomis cyanellus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0f1"
+  },
+  "Nom_francais": "Crapet-soleil",
+  "Nom_anglais": "Pumpkinseed",
+  "Nom_scientifique": "Lepomis gibbosus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0f2"
+  },
+  "Nom_francais": "Crayon d'argent",
+  "Nom_anglais": "Brook Silverside",
+  "Nom_scientifique": "Labidesthes sicculus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0f3"
+  },
+  "Nom_francais": "Cyclothone à petites dents",
+  "Nom_anglais": "Smalltooth Bristlemouth",
+  "Nom_scientifique": "Cyclothone microdon"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0f4"
+  },
+  "Nom_francais": "Cyclothone matelot atlantique",
+  "Nom_anglais": "Atlantic Sailor Lightfish",
+  "Nom_scientifique": "Polymetme thaeocoryla"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0f5"
+  },
+  "Nom_francais": "Dactyloptère",
+  "Nom_anglais": "Flying Gurnard",
+  "Nom_scientifique": "Dactylopterus volitans"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0f6"
+  },
+  "Nom_francais": "Dard à ventre jaune",
+  "Nom_anglais": "Iowa Darter",
+  "Nom_scientifique": "Etheostoma exile"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0f7"
+  },
+  "Nom_francais": "Dard arc-en-ciel",
+  "Nom_anglais": "Rainbow Darter",
+  "Nom_scientifique": "Etheostoma caeruleum"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0f8"
+  },
+  "Nom_francais": "Dard barré",
+  "Nom_anglais": "Fantail Darter",
+  "Nom_scientifique": "Etheostoma flabellare"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0f9"
+  },
+  "Nom_francais": "Dard de sable",
+  "Nom_anglais": "Eastern Sand Darter",
+  "Nom_scientifique": "Ammocrypta pellucida"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0fa"
+  },
+  "Nom_francais": "Doré jaune",
+  "Nom_anglais": "Walleye",
+  "Nom_scientifique": "Sander vitreus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0fb"
+  },
+  "Nom_francais": "Doré noir",
+  "Nom_anglais": "Sauger",
+  "Nom_scientifique": "Sander canadensis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0fc"
+  },
+  "Nom_francais": "Dragon-boa",
+  "Nom_anglais": "Boa dragonfish",
+  "Nom_scientifique": "Stomias ferox"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0fd"
+  },
+  "Nom_francais": "Éperlan arc-en-ciel",
+  "Nom_anglais": "Rainbow Smelt",
+  "Nom_scientifique": "Osmerus mordax",
+  "Commentaires": "Les populations du nord sont anadromes."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0fe"
+  },
+  "Nom_francais": "Éperlan arc-en-ciel, pop. du sud de l'estuaire du Saint-Laurent",
+  "Nom_anglais": "Rainbow Smelt - Southern St. Lawrence Estuary population",
+  "Nom_scientifique": "Osmerus mordax pop. 1",
+  "Commentaires": "Population du sud (considérée dulcicole car présente dans les lacs et rivières). Espèce des côtes Atlantique Nord introduite par les canaux d'eau et dispersée ensuite comme des appâts vivants.",
+  "SOUS_ESPECE_POP": "pop. 1"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e0ff"
+  },
+  "Nom_francais": "Épinoche à cinq épines",
+  "Nom_anglais": "Brook Stickleback",
+  "Nom_scientifique": "Culaea inconstans"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e100"
+  },
+  "Nom_francais": "Épinoche à neuf épines",
+  "Nom_anglais": "Ninespine Stickleback",
+  "Nom_scientifique": "Pungitius pungitius"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e101"
+  },
+  "Nom_francais": "Épinoche à quatre épines",
+  "Nom_anglais": "Fourspine Stickleback",
+  "Nom_scientifique": "Apeltes quadracus",
+  "Commentaires": "Cette espèce a été introduite des côtes Atlantique Nord via les eaux de lest libérés par les bateaux."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e102"
+  },
+  "Nom_francais": "Épinoche à trois épines",
+  "Nom_anglais": "Threespine Stickleback",
+  "Nom_scientifique": "Gasterosteus aculeatus",
+  "Commentaires": "La migration de cette espèce, à partir des côtes Atlantique Nord, a été rendue possible par l'établissement des canaux d'eau."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e103"
+  },
+  "Nom_francais": "Épinoche tachetée",
+  "Nom_anglais": "Blackspotted Stickleback",
+  "Nom_scientifique": "Gasterosteus wheatlandi"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e104"
+  },
+  "Nom_francais": "Esturgeon jaune",
+  "Nom_anglais": "Lake Sturgeon",
+  "Nom_scientifique": "Acipenser fulvescens"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e105"
+  },
+  "Nom_francais": "Esturgeon noir",
+  "Nom_anglais": "Atlantic Sturgeon",
+  "Nom_scientifique": "Acipenser oxyrinchus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e106"
+  },
+  "Nom_francais": "Faux-trigle armé",
+  "Nom_anglais": "Moustache Sculpin",
+  "Nom_scientifique": "Triglops murrayi"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e107"
+  },
+  "Nom_francais": "Faux-trigle aux grands yeux",
+  "Nom_anglais": "Bigeye Sculpin",
+  "Nom_scientifique": "Triglops nybelini"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e108"
+  },
+  "Nom_francais": "Flétan de l'Atlantique",
+  "Nom_anglais": "Atlantic Halibut",
+  "Nom_scientifique": "Hippoglossus hippoglossus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e109"
+  },
+  "Nom_francais": "Flétan du Groenland",
+  "Nom_anglais": "Greenland Halibut",
+  "Nom_scientifique": "Reinhardtius hippoglossoides"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e10a"
+  },
+  "Nom_francais": "Fondule barré",
+  "Nom_anglais": "Banded Killifish",
+  "Nom_scientifique": "Fundulus diaphanus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e10b"
+  },
+  "Nom_francais": "Fouille-roche gris",
+  "Nom_anglais": "Channel Darter",
+  "Nom_scientifique": "Percina copelandi"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e10c"
+  },
+  "Nom_francais": "Fouille-roche zébré",
+  "Nom_anglais": "Logperch",
+  "Nom_scientifique": "Percina caprodes"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e10d"
+  },
+  "Nom_francais": "Garcette-goitre",
+  "Nom_anglais": "Goiter Blacksmelt",
+  "Nom_scientifique": "Bathylagus euryops"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e10e"
+  },
+  "Nom_francais": "Gardon rouge",
+  "Nom_anglais": "Rudd",
+  "Nom_scientifique": "Scardinius erythrophthalmus",
+  "Commentaires": "Cette espèce a été capturée dans le lac Saint-Pierre; elle est possiblement en expansion. Originaire des des mers Caspienne et Aral, elle fut introduite dans la rivière Hudson (en Ontario) en 1936. Depuis, elle a colonisé les lacs Ontario, Érié et Michigan. Cette espèce est souvent dispersée par les pêcheurs via son utilisation comme appât vivant."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e10f"
+  },
+  "Nom_francais": "Gaspareau",
+  "Nom_anglais": "Alewife",
+  "Nom_scientifique": "Alosa pseudoharengus",
+  "Commentaires": "Introduite via l'établissement des canaux d'eau."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e110"
+  },
+  "Nom_francais": "Goberge",
+  "Nom_anglais": "Pollock",
+  "Nom_scientifique": "Pollachius virens"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e111"
+  },
+  "Nom_francais": "Gobie à nez tubulaire",
+  "Nom_anglais": "Tubenose Goby",
+  "Nom_scientifique": "Proterorhinus semilunaris"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e112"
+  },
+  "Nom_francais": "Gobie à taches noires",
+  "Nom_anglais": "Round Goby",
+  "Nom_scientifique": "Neogobius melanostomus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e113"
+  },
+  "Nom_francais": "Grand brochet",
+  "Nom_anglais": "Northern Pike",
+  "Nom_scientifique": "Esox lucius"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e114"
+  },
+  "Nom_francais": "Grand corégone",
+  "Nom_anglais": "Lake Whitefish",
+  "Nom_scientifique": "Coregonus clupeaformis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e115"
+  },
+  "Nom_francais": "Grand requin blanc",
+  "Nom_anglais": "White Shark",
+  "Nom_scientifique": "Carcharodon carcharias"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e116"
+  },
+  "Nom_francais": "Grande argentine",
+  "Nom_anglais": "Greater Argentine",
+  "Nom_scientifique": "Argentina silus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e117"
+  },
+  "Nom_francais": "Grande hache d'argent",
+  "Nom_anglais": "Greater Silver Hatchetfish",
+  "Nom_scientifique": "Argyropelecus gigas"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e118"
+  },
+  "Nom_francais": "Grande lycode",
+  "Nom_anglais": "Greater Eelpout",
+  "Nom_scientifique": "Lycodes esmarkii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e119"
+  },
+  "Nom_francais": "Grenadier du Grand Banc",
+  "Nom_anglais": "Marlin-spike",
+  "Nom_scientifique": "Nezumia bairdii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e11a"
+  },
+  "Nom_francais": "Grosse poule de mer",
+  "Nom_anglais": "Lumpfish",
+  "Nom_scientifique": "Cyclopterus lumpus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e11b"
+  },
+  "Nom_francais": "Gymnaste atlantique",
+  "Nom_anglais": "Bluntsnout Smooth-Head",
+  "Nom_scientifique": "Xenodermichthys copei"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e11c"
+  },
+  "Nom_francais": "Hache du talus continental",
+  "Nom_anglais": "Slope Hatchetfish",
+  "Nom_scientifique": "Polyipnus clarus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e11d"
+  },
+  "Nom_francais": "Hameçon atlantique",
+  "Nom_anglais": "Atlantic Hookear Sculpin",
+  "Nom_scientifique": "Artediellus atlanticus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e11e"
+  },
+  "Nom_francais": "Hameçon neigeux",
+  "Nom_anglais": "Arctic Hookear Sculpin",
+  "Nom_scientifique": "Artediellus uncinatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e11f"
+  },
+  "Nom_francais": "Hareng atlantique",
+  "Nom_anglais": "Atlantic Herring",
+  "Nom_scientifique": "Clupea harengus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e120"
+  },
+  "Nom_francais": "Hémitriptère atlantique",
+  "Nom_anglais": "Sea Raven",
+  "Nom_scientifique": "Hemitripterus americanus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e121"
+  },
+  "Nom_francais": "Hoplostète argenté",
+  "Nom_anglais": "Silver Roughy",
+  "Nom_scientifique": "Hoplostethus mediterraneus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e122"
+  },
+  "Nom_francais": "Icèle à deux cornes",
+  "Nom_anglais": "Twohorn Sculpin",
+  "Nom_scientifique": "Icelus bicornis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e123"
+  },
+  "Nom_francais": "Icèle spatulée",
+  "Nom_anglais": "Spatulate Sculpin",
+  "Nom_scientifique": "Icelus spatula"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e124"
+  },
+  "Nom_francais": "Laimargue atlantique",
+  "Nom_anglais": "Greenland Shark",
+  "Nom_scientifique": "Somniosus microcephalus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e125"
+  },
+  "Nom_francais": "Lampe à nez denté",
+  "Nom_anglais": "Mirror Lanternfish",
+  "Nom_scientifique": "Lampadena speculigera"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e126"
+  },
+  "Nom_francais": "Lamproie argentée",
+  "Nom_anglais": "Silver Lamprey",
+  "Nom_scientifique": "Ichthyomyzon unicuspis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e127"
+  },
+  "Nom_francais": "Lamproie brune",
+  "Nom_anglais": "Chestnut Lamprey",
+  "Nom_scientifique": "Ichthyomyzon castaneus",
+  "Commentaires": "Nouvelle espèce parasite récemment identifiée pour le Québec mais récoltée quatre fois au Québec (en 1941 à Dorval, en 1964 à Saint-Vallier et en 1971 dans un tributaire de la rivière Outaouais à Hull)."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e128"
+  },
+  "Nom_francais": "Lamproie de l'Est",
+  "Nom_anglais": "American Brook Lamprey",
+  "Nom_scientifique": "Lethenteron appendix"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e129"
+  },
+  "Nom_francais": "Lamproie du Nord",
+  "Nom_anglais": "Northern Brook Lamprey",
+  "Nom_scientifique": "Ichthyomyzon fossor"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e12a"
+  },
+  "Nom_francais": "Lamproie marine",
+  "Nom_anglais": "Sea Lamprey",
+  "Nom_scientifique": "Petromyzon marinus",
+  "Commentaires": "Cette espèce indigène a longtemps été considérée comme étant introduite dans les Grands Lacs via les canaux des écluses. Sa présence au Québec semble associée au transport maritime via  les carènes des navires."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e12b"
+  },
+  "Nom_francais": "Lançon arctique",
+  "Nom_anglais": "Arctic Sand Lance",
+  "Nom_scientifique": "Ammodytes hexapterus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e12c"
+  },
+  "Nom_francais": "Lançon d'Amérique",
+  "Nom_anglais": "American Sand Lance",
+  "Nom_scientifique": "Ammodytes americanus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e12d"
+  },
+  "Nom_francais": "Lançon du nord",
+  "Nom_anglais": "Northern Sand Lance",
+  "Nom_scientifique": "Ammodytes dubius"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e12e"
+  },
+  "Nom_francais": "Lanterne à grandes écailles",
+  "Nom_anglais": "Large-scaled lantern fish",
+  "Nom_scientifique": "Neoscopelus macrolepidotus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e12f"
+  },
+  "Nom_francais": "Lanterne glaciaire",
+  "Nom_anglais": "Glacier Lanternfish",
+  "Nom_scientifique": "Benthosema glaciale"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e130"
+  },
+  "Nom_francais": "Lanterne ponctuée",
+  "Nom_anglais": "Spotted Lanternfish",
+  "Nom_scientifique": "Myctophum punctatum"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e131"
+  },
+  "Nom_francais": "Lanterne-voilière nordique",
+  "Nom_anglais": "Krøyer's Lanternfish",
+  "Nom_scientifique": "Notoscopelus kroyeri"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e132"
+  },
+  "Nom_francais": "Laquaiche argentée",
+  "Nom_anglais": "Mooneye",
+  "Nom_scientifique": "Hiodon tergisus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e133"
+  },
+  "Nom_francais": "Laquaiche aux yeux d'or",
+  "Nom_anglais": "Goldeye",
+  "Nom_scientifique": "Hiodon alosoides"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e134"
+  },
+  "Nom_francais": "Lépisosté osseux",
+  "Nom_anglais": "Longnose Gar",
+  "Nom_scientifique": "Lepisosteus osseus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e135"
+  },
+  "Nom_francais": "Limace à museau noir",
+  "Nom_anglais": "Blacksnout Seasnail",
+  "Nom_scientifique": "Paraliparis copei"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e136"
+  },
+  "Nom_francais": "Limace ardente",
+  "Nom_anglais": "Lowfin Snailfish",
+  "Nom_scientifique": "Paraliparis calidus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e137"
+  },
+  "Nom_francais": "Limace atlantique",
+  "Nom_anglais": "Atlantic Seasnail",
+  "Nom_scientifique": "Liparis atlanticus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e138"
+  },
+  "Nom_francais": "Limace de Cohen",
+  "Nom_anglais": "Gulf Snailfish",
+  "Nom_scientifique": "Liparis coheni"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e139"
+  },
+  "Nom_francais": "Limace des laminaires",
+  "Nom_anglais": "Kelp Snailfish",
+  "Nom_scientifique": "Liparis tunicatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e13a"
+  },
+  "Nom_francais": "Limace des pétoncles",
+  "Nom_anglais": "Inquiline Snailfish",
+  "Nom_scientifique": "Liparis inquilinus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e13b"
+  },
+  "Nom_francais": "Limace gélatineuse",
+  "Nom_anglais": "Gelatinous Seasnail",
+  "Nom_scientifique": "Liparis fabricii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e13c"
+  },
+  "Nom_francais": "Limace nébuleuse",
+  "Nom_anglais": "Nebulous snailfish",
+  "Nom_scientifique": "Liparis bathyarcticus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e13d"
+  },
+  "Nom_francais": "Limande à queue jaune",
+  "Nom_anglais": "Yellowtail Flounder",
+  "Nom_scientifique": "Myzopsetta ferruginea"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e13e"
+  },
+  "Nom_francais": "Lompénie de Fabricius",
+  "Nom_anglais": "Slender Eelblenny",
+  "Nom_scientifique": "Lumpenus fabricii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e13f"
+  },
+  "Nom_francais": "Lompénie naine",
+  "Nom_anglais": "Stout Eelblenny",
+  "Nom_scientifique": "Anisarchus medius"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e140"
+  },
+  "Nom_francais": "Lompénie tâchetée",
+  "Nom_anglais": "Daubed Shanny",
+  "Nom_scientifique": "Leptoclinus maculatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e141"
+  },
+  "Nom_francais": "Lompénie-serpent",
+  "Nom_anglais": "Snakeblenny",
+  "Nom_scientifique": "Lumpenus lampretaeformis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e142"
+  },
+  "Nom_francais": "Loquette d'Amérique",
+  "Nom_anglais": "Ocean Pout",
+  "Nom_scientifique": "Zoarces americanus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e143"
+  },
+  "Nom_francais": "Lotte",
+  "Nom_anglais": "Burbot",
+  "Nom_scientifique": "Lota lota"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e144"
+  },
+  "Nom_francais": "Loup à tête large",
+  "Nom_anglais": "Northern Wolffish",
+  "Nom_scientifique": "Anarhichas denticulatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e145"
+  },
+  "Nom_francais": "Loup atlantique",
+  "Nom_anglais": "Atlantic Wolffish",
+  "Nom_scientifique": "Anarhichas lupus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e146"
+  },
+  "Nom_francais": "Loup tacheté",
+  "Nom_anglais": "Spotted Wolffish",
+  "Nom_scientifique": "Anarhichas minor"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e147"
+  },
+  "Nom_francais": "Lussion blanc",
+  "Nom_anglais": "White Barracudina",
+  "Nom_scientifique": "Arctozenus risso",
+  "Commentaires": "Espèce introduite lors de l'Exposition universelle de Montréal (1967). L'espèce a été relâchée dans le fleuve mais elle s'est acclimatée dans le golfe."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e148"
+  },
+  "Nom_francais": "Lycode à carreaux",
+  "Nom_anglais": "Checker Eelpout",
+  "Nom_scientifique": "Lycodes vahlii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e149"
+  },
+  "Nom_francais": "Lycode à tête longue",
+  "Nom_anglais": "Wolf Eelpout",
+  "Nom_scientifique": "Lycenchelys verrillii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e14a"
+  },
+  "Nom_francais": "Lycode atlantique",
+  "Nom_anglais": "Atlantic Eelpout",
+  "Nom_scientifique": "Lycodes terraenovae"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e14b"
+  },
+  "Nom_francais": "Lycode commune",
+  "Nom_anglais": "Common Wolf Eeel",
+  "Nom_scientifique": "Lycenchelys paxillus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e14c"
+  },
+  "Nom_francais": "Lycode du Labrador",
+  "Nom_anglais": "Newfoundland Eelpout",
+  "Nom_scientifique": "Lycodes lavalaei"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e14d"
+  },
+  "Nom_francais": "Lycode polaire",
+  "Nom_anglais": "Canadian Eelpout",
+  "Nom_scientifique": "Lycodes polaris"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e14e"
+  },
+  "Nom_francais": "Malachigan",
+  "Nom_anglais": "Freshwater Drum",
+  "Nom_scientifique": "Aplodinotus grunniens"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e14f"
+  },
+  "Nom_francais": "Maquereau blanc",
+  "Nom_anglais": "Atlantic Chub Mackerel",
+  "Nom_scientifique": "Scomber colias"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e150"
+  },
+  "Nom_francais": "Maquereau bleu",
+  "Nom_anglais": "Atlantic Mackerel",
+  "Nom_scientifique": "Scomber scombrus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e151"
+  },
+  "Nom_francais": "Maraîche",
+  "Nom_anglais": "Porbeagle",
+  "Nom_scientifique": "Lamna nasus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e152"
+  },
+  "Nom_francais": "Marigane noire",
+  "Nom_anglais": "Black Crappie",
+  "Nom_scientifique": "Pomoxis nigromaculatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e153"
+  },
+  "Nom_francais": "Maskinongé",
+  "Nom_anglais": "Muskellunge",
+  "Nom_scientifique": "Esox masquinongy"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e154"
+  },
+  "Nom_francais": "Méné à grosse tête",
+  "Nom_anglais": "Fathead Minnow",
+  "Nom_scientifique": "Pimephales promelas",
+  "Commentaires": "Le nom commun français diffère de celui utilisé dans la publication \"American Fisheries Society (2013) Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 7th edition\", mais sera révisé lors de la prochaine publication."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e155"
+  },
+  "Nom_francais": "Méné à menton noir",
+  "Nom_anglais": "Blackchin Shiner",
+  "Nom_scientifique": "Miniellus heterodon",
+  "Commentaires": "Le nom commun français diffère de celui utilisé dans la publication \"American Fisheries Society (2013) Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 7th edition\", mais sera révisé lors de la prochaine publication."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e156"
+  },
+  "Nom_francais": "Méné à museau arrondi",
+  "Nom_anglais": "Bluntnose Minnow",
+  "Nom_scientifique": "Pimephales notatus",
+  "Commentaires": "Le nom commun français diffère de celui utilisé dans la publication \"American Fisheries Society (2013) Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 7th edition\", mais sera révisé lors de la prochaine publication."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e157"
+  },
+  "Nom_francais": "Méné à museau noir",
+  "Nom_anglais": "Blacknose Shiner",
+  "Nom_scientifique": "Notropis heterolepis",
+  "Commentaires": "Le nom commun français diffère de celui utilisé dans la publication \"American Fisheries Society (2013) Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 7th edition\", mais sera révisé lors de la prochaine publication."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e158"
+  },
+  "Nom_francais": "Méné à nageoires rouges",
+  "Nom_anglais": "Common Shiner",
+  "Nom_scientifique": "Luxilus cornutus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e159"
+  },
+  "Nom_francais": "Méné à tache noire",
+  "Nom_anglais": "Spottail Shiner",
+  "Nom_scientifique": "Hudsonius hudsonius",
+  "Commentaires": "Le nom commun français diffère de celui utilisé dans la publication \"American Fisheries Society (2013) Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 7th edition\", mais sera révisé lors de la prochaine publication."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e15a"
+  },
+  "Nom_francais": "Méné à tête rose",
+  "Nom_anglais": "Rosyface Shiner",
+  "Nom_scientifique": "Notropis rubellus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e15b"
+  },
+  "Nom_francais": "Méné bec-de-lièvre",
+  "Nom_anglais": "Cutlip Minnow",
+  "Nom_scientifique": "Exoglossum maxillingua",
+  "Commentaires": "Le nom commun français diffère de celui utilisé dans la publication \"American Fisheries Society (2013) Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 7th edition\", mais sera révisé lors de la prochaine publication."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e15c"
+  },
+  "Nom_francais": "Méné bleu",
+  "Nom_anglais": "Spotfin Shiner",
+  "Nom_scientifique": "Cyprinella spiloptera"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e15d"
+  },
+  "Nom_francais": "Méné camus",
+  "Nom_anglais": "Pugnose shiner",
+  "Nom_scientifique": "Miniellus anogenus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e15e"
+  },
+  "Nom_francais": "Méné d'argent de l'Est",
+  "Nom_anglais": "Eastern Silvery Minnow",
+  "Nom_scientifique": "Hybognathus regius"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e15f"
+  },
+  "Nom_francais": "Méné d'herbe",
+  "Nom_anglais": "Bridle Shiner",
+  "Nom_scientifique": "Notropis bifrenatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e160"
+  },
+  "Nom_francais": "Méné émeraude",
+  "Nom_anglais": "Emerald Shiner",
+  "Nom_scientifique": "Notropis atherinoides"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e161"
+  },
+  "Nom_francais": "Méné jaune",
+  "Nom_anglais": "Golden Shiner",
+  "Nom_scientifique": "Notemigonus crysoleucas"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e162"
+  },
+  "Nom_francais": "Méné laiton",
+  "Nom_anglais": "Brassy Minnow",
+  "Nom_scientifique": "Hybognathus hankinsoni"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e163"
+  },
+  "Nom_francais": "Méné paille",
+  "Nom_anglais": "Sand Shiner",
+  "Nom_scientifique": "Miniellus stramineus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e164"
+  },
+  "Nom_francais": "Méné pâle",
+  "Nom_anglais": "Mimic Shiner",
+  "Nom_scientifique": "Paranotropis volucellus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e165"
+  },
+  "Nom_francais": "Méné ventre citron",
+  "Nom_anglais": "Finescale Dace",
+  "Nom_scientifique": "Chrosomus neogaeus",
+  "Commentaires": "Le nom commun français diffère de celui utilisé dans la publication \"American Fisheries Society (2013) Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 7th edition\", mais sera révisé lors de la prochaine publication."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e166"
+  },
+  "Nom_francais": "Méné ventre rouge du Nord",
+  "Nom_anglais": "Northern Redbelly Dace",
+  "Nom_scientifique": "Chrosomus eos",
+  "Commentaires": "Le nom commun français diffère de celui utilisé dans la publication \"American Fisheries Society (2013) Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 7th edition\", mais sera révisé lors de la prochaine publication."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e167"
+  },
+  "Nom_francais": "Ménomini rond",
+  "Nom_anglais": "Round Whitefish",
+  "Nom_scientifique": "Prosopium cylindraceum"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e168"
+  },
+  "Nom_francais": "Merlan bleu",
+  "Nom_anglais": "Blue Whiting",
+  "Nom_scientifique": "Micromesistius poutassou"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e169"
+  },
+  "Nom_francais": "Merlu argenté",
+  "Nom_anglais": "Silver Hake",
+  "Nom_scientifique": "Merluccius bilinearis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e16a"
+  },
+  "Nom_francais": "Merluche à longues nageoires",
+  "Nom_anglais": "Longfin Hake",
+  "Nom_scientifique": "Phycis chesteri"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e16b"
+  },
+  "Nom_francais": "Merluche blanche, pop. de l’Atlantique et du nord du golfe du Saint-Laurent",
+  "Nom_anglais": "White Hake - Atlantic and Northern Gulf of St. Lawrence population",
+  "Nom_scientifique": "Urophycis tenuis pop. 2",
+  "SOUS_ESPECE_POP": "pop. 2"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e16c"
+  },
+  "Nom_francais": "Merluche blanche, pop. du sud du golfe du Saint-Laurent",
+  "Nom_anglais": "White Hake - Southern Gulf of St. Lawrence population",
+  "Nom_scientifique": "Urophycis tenuis pop. 1",
+  "SOUS_ESPECE_POP": "pop. 1"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e16d"
+  },
+  "Nom_francais": "Meunier noir",
+  "Nom_anglais": "White Sucker",
+  "Nom_scientifique": "Catostomus commersonii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e16e"
+  },
+  "Nom_francais": "Meunier rouge",
+  "Nom_anglais": "Longnose Sucker",
+  "Nom_scientifique": "Catostomus catostomus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e16f"
+  },
+  "Nom_francais": "Môle",
+  "Nom_anglais": "Ocean Sunfish",
+  "Nom_scientifique": "Mola mola"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e170"
+  },
+  "Nom_francais": "Mollasse atlantique",
+  "Nom_anglais": "Atlantic Soft Pout",
+  "Nom_scientifique": "Melanostigma atlanticum"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e171"
+  },
+  "Nom_francais": "Morue arctique",
+  "Nom_anglais": "Arctic Cod",
+  "Nom_scientifique": "Boreogadus saida"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e172"
+  },
+  "Nom_francais": "Morue du Pacifique",
+  "Nom_anglais": "Pacific Cod",
+  "Nom_scientifique": "Gadus macrocephalus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e173"
+  },
+  "Nom_francais": "Morue franche, pop. nord-laurentienne",
+  "Nom_anglais": "Atlantic Cod - Laurentian North population",
+  "Nom_scientifique": "Gadus morhua pop. 4",
+  "SOUS_ESPECE_POP": "pop. 4"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e174"
+  },
+  "Nom_francais": "Morue franche, pop. sud-laurentienne",
+  "Nom_anglais": "Atlantic Cod - Laurentian South population",
+  "Nom_scientifique": "Gadus morhua pop. 7",
+  "SOUS_ESPECE_POP": "pop. 7"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e175"
+  },
+  "Nom_francais": "Morue ogac",
+  "Nom_anglais": "Greenland Cod",
+  "Nom_scientifique": "Gadus ogac"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e176"
+  },
+  "Nom_francais": "Motelle à quatre barbillons",
+  "Nom_anglais": "Fourbeard Rockling",
+  "Nom_scientifique": "Enchelyopus cimbrius"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e177"
+  },
+  "Nom_francais": "Mulet à cornes",
+  "Nom_anglais": "Creek Chub",
+  "Nom_scientifique": "Semotilus atromaculatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e178"
+  },
+  "Nom_francais": "Mulet de lac",
+  "Nom_anglais": "Lake Chub",
+  "Nom_scientifique": "Couesius plumbeus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e179"
+  },
+  "Nom_francais": "Mulet perlé du Nord",
+  "Nom_anglais": "Northern Pearl Dace",
+  "Nom_scientifique": "Margariscus nachtriebi"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e17a"
+  },
+  "Nom_francais": "Mustèle arctique à trois brabillons",
+  "Nom_anglais": "Threebeard Rockling",
+  "Nom_scientifique": "Gaidropsarus ensis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e1ea"
+  },
+  "Nom_francais": "Myxine de Girard",
+  "Nom_anglais": "Girard's Hagfish",
+  "Nom_scientifique": "Myxine limosa"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e1eb"
+  },
+  "Nom_francais": "Naseux des rapides",
+  "Nom_anglais": "Longnose Dace",
+  "Nom_scientifique": "Rhinichthys cataractae"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e1ec"
+  },
+  "Nom_francais": "Naseux noir de l'Est",
+  "Nom_anglais": "Blacknose Dace",
+  "Nom_scientifique": "Rhinichthys atratulus",
+  "Commentaires": "Le nom commun français diffère de celui utilisé dans la publication \"American Fisheries Society (2013) Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 7th edition\", mais sera révisé lors de la prochaine publication."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e1ed"
+  },
+  "Nom_francais": "Ogre",
+  "Nom_anglais": "Fangtooth",
+  "Nom_scientifique": "Anoplogaster cornuta"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e1ee"
+  },
+  "Nom_francais": "Omble chevalier",
+  "Nom_anglais": "Arctic Char",
+  "Nom_scientifique": "Salvelinus alpinus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e1ef"
+  },
+  "Nom_francais": "Omble chevalier oquassa",
+  "Nom_anglais": "Arctic Char oquassa",
+  "Nom_scientifique": "Salvelinus alpinus oquassa",
+  "Commentaires": "Toutes les populations isolées en eau douce de l'omble chevalier (Salvelinus alpinus) appartiennent à la sous-espèce Salvelinus alpinus oquassa.",
+  "SOUS_ESPECE_POP": "oquassa"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e205"
+  },
+  "Nom_francais": "Omble de fontaine",
+  "Nom_anglais": "Brook Trout",
+  "Nom_scientifique": "Salvelinus fontinalis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e206"
+  },
+  "Nom_francais": "Omisco",
+  "Nom_anglais": "Trout-perch",
+  "Nom_scientifique": "Percopsis omiscomaycus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e207"
+  },
+  "Nom_francais": "Ouananiche",
+  "Nom_anglais": "Landlocked Atlantic Salmon",
+  "Nom_scientifique": "Salmo salar (populations confinées aux eaux intérieures)",
+  "Commentaires": "Le terme ouananiche est utilisé pour les populations du saumon atlantique qui sont isolées en eau douce.",
+  "SOUS_ESPECE_POP": "(populations confinées aux eaux intérieures)"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e20b"
+  },
+  "Nom_francais": "Ouitouche",
+  "Nom_anglais": "Fallfish",
+  "Nom_scientifique": "Semotilus corporalis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e20d"
+  },
+  "Nom_francais": "Pêcheur à deux massettes",
+  "Nom_anglais": "Twoclub Angler",
+  "Nom_scientifique": "Ceratias holboelli"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e220"
+  },
+  "Nom_francais": "Pêcheur à trèfle",
+  "Nom_anglais": "Triplewart Seadevil",
+  "Nom_scientifique": "Cryptopsaras couesii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e221"
+  },
+  "Nom_francais": "Perchaude",
+  "Nom_anglais": "Yellow Perch",
+  "Nom_scientifique": "Perca flavescens"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e222"
+  },
+  "Nom_francais": "Petite limace de mer",
+  "Nom_anglais": "Sea Tadpole",
+  "Nom_scientifique": "Careproctus reinhardti"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e223"
+  },
+  "Nom_francais": "Petite poule de Terre-Neuve",
+  "Nom_anglais": "Newfoundland Spiny Lumpsucker",
+  "Nom_scientifique": "Eumicrotremus terraenovae"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e229"
+  },
+  "Nom_francais": "Plie canadienne",
+  "Nom_anglais": "American Plaice",
+  "Nom_scientifique": "Hippoglossoides platessoides"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e23b"
+  },
+  "Nom_francais": "Plie grise",
+  "Nom_anglais": "Witch Flounder",
+  "Nom_scientifique": "Glyptocephalus cynoglossus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e244"
+  },
+  "Nom_francais": "Plie lisse",
+  "Nom_anglais": "Smooth Flounder",
+  "Nom_scientifique": "Liopsetta putnami"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e245"
+  },
+  "Nom_francais": "Plie rouge",
+  "Nom_anglais": "Winter Flounder",
+  "Nom_scientifique": "Pseudopleuronectes americanus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e246"
+  },
+  "Nom_francais": "Poisson rouge",
+  "Nom_anglais": "Goldfish",
+  "Nom_scientifique": "Carassius auratus",
+  "Commentaires": "Espèce originaire d'Asie ayant colonisée plusieurs lacs et rivières du Québec à la suite de relâchers. Le nom commun français diffère de celui utilisé dans la publication \"American Fisheries Society (2013) Common and Scientific Names of Fishes from the United States, Canada, and Mexico, 7th edition\", mais sera révisé lors de la prochaine publication."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e247"
+  },
+  "Nom_francais": "Poisson-alligator arctique",
+  "Nom_anglais": "Arctic Alligatorfish",
+  "Nom_scientifique": "Aspidophoroides olrikii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e248"
+  },
+  "Nom_francais": "Poisson-alligator atlantique",
+  "Nom_anglais": "Alligatorfish",
+  "Nom_scientifique": "Aspidophoroides monopterygius"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e249"
+  },
+  "Nom_francais": "Poisson-castor émeraude",
+  "Nom_anglais": "Emerald Bowfin",
+  "Nom_scientifique": "Amia ocellicauda"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e24a"
+  },
+  "Nom_francais": "Portugaise",
+  "Nom_anglais": "Atlantic Moonfish",
+  "Nom_scientifique": "Selene setapinnis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e24b"
+  },
+  "Nom_francais": "Poulamon atlantique",
+  "Nom_anglais": "Atlantic Tomcod",
+  "Nom_scientifique": "Microgadus tomcod"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e24c"
+  },
+  "Nom_francais": "Priacanthe sablé",
+  "Nom_anglais": "Atlantic Bigeye",
+  "Nom_scientifique": "Priacanthus arenatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e24d"
+  },
+  "Nom_francais": "Quatre-lignes atlantique",
+  "Nom_anglais": "Fourline Snakeblenny",
+  "Nom_scientifique": "Eumesogrammus praecisus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e24e"
+  },
+  "Nom_francais": "Queue-de-rat d'Amérique",
+  "Nom_anglais": "Western Softhead Grenadier",
+  "Nom_scientifique": "Malacocephalus occidentalis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e24f"
+  },
+  "Nom_francais": "Raie à queue de velours, pop. du chenal Laurentien et du plateau néo-écossais",
+  "Nom_anglais": "Smooth Skate - Population du chenal Laurentien et du plateau néo-écossais",
+  "Nom_scientifique": "Malacoraja senta pop. 2",
+  "SOUS_ESPECE_POP": "pop. 2"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e250"
+  },
+  "Nom_francais": "Raie à queue épineuse",
+  "Nom_anglais": "Spinytail Skate",
+  "Nom_scientifique": "Bathyraja spinicauda"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e251"
+  },
+  "Nom_francais": "Raie épineuse",
+  "Nom_anglais": "Thorny Skate",
+  "Nom_scientifique": "Amblyraja radiata"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e252"
+  },
+  "Nom_francais": "Raie ronde",
+  "Nom_anglais": "Round Skate",
+  "Nom_scientifique": "Rajella fyllae"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e253"
+  },
+  "Nom_francais": "Raie tachetée, pop. du golfe du Saint-Laurent",
+  "Nom_anglais": "Winter Skate - Gulf of St. Lawrence population",
+  "Nom_scientifique": "Leucoraja ocellata pop. 5",
+  "SOUS_ESPECE_POP": "pop. 5"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e254"
+  },
+  "Nom_francais": "Rascasse de fond",
+  "Nom_anglais": "Blackbelly Rosefish",
+  "Nom_scientifique": "Helicolenus dactylopterus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e255"
+  },
+  "Nom_francais": "Raseux-de-terre gris",
+  "Nom_anglais": "Tessellated Darter",
+  "Nom_scientifique": "Etheostoma olmstedi"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e256"
+  },
+  "Nom_francais": "Raseux-de-terre noir",
+  "Nom_anglais": "Johnny Darter",
+  "Nom_scientifique": "Etheostoma nigrum"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e257"
+  },
+  "Nom_francais": "Requin bleu",
+  "Nom_anglais": "Blue Shark",
+  "Nom_scientifique": "Prionace glauca"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e258"
+  },
+  "Nom_francais": "Requin pèlerin",
+  "Nom_anglais": "Basking Shark",
+  "Nom_scientifique": "Cetorhinus maximus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e259"
+  },
+  "Nom_francais": "Requin-taupe bleu",
+  "Nom_anglais": "Shortfin Mako",
+  "Nom_scientifique": "Isurus oxyrinchus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e25a"
+  },
+  "Nom_francais": "Rouget-souris mignon",
+  "Nom_anglais": "Dwarf Goatfish",
+  "Nom_scientifique": "Upeneus parvus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e25b"
+  },
+  "Nom_francais": "Saïda imberbe",
+  "Nom_anglais": "Polar Cod",
+  "Nom_scientifique": "Arctogadus glacialis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e25c"
+  },
+  "Nom_francais": "Saumon atlantique",
+  "Nom_anglais": "Atlantic Salmon",
+  "Nom_scientifique": "Salmo salar"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e25d"
+  },
+  "Nom_francais": "Saumon chinook",
+  "Nom_anglais": "Chinook Salmon",
+  "Nom_scientifique": "Oncorhynchus tshawytscha",
+  "Commentaires": "Acclimatée dans le Saint-Laurent, cette espèce originaire des côtes Pacifique Nord a été libérée volontairement pour la pêche."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e25e"
+  },
+  "Nom_francais": "Saumon coho",
+  "Nom_anglais": "Coho Salmon",
+  "Nom_scientifique": "Oncorhynchus kisutch",
+  "Commentaires": "Acclimatée dans le Saint-Laurent, cette espèce originaire des côtes Pacifique Nord a été libérée volontairement pour la pêche."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e25f"
+  },
+  "Nom_francais": "Saumon rouge",
+  "Nom_anglais": "Sockeye Salmon",
+  "Nom_scientifique": "Oncorhynchus nerka",
+  "Commentaires": "Les noms kokani et kokanee s'appliquent à la forme d'eau douce acclimatée dans le lac Normand, en Mauricie."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e260"
+  },
+  "Nom_francais": "Sébaste atlantique",
+  "Nom_anglais": "Deepwater Redfish",
+  "Nom_scientifique": "Sebastes mentella"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e261"
+  },
+  "Nom_francais": "Sébaste d'Acadie",
+  "Nom_anglais": "Acadian Redfish",
+  "Nom_scientifique": "Sebastes fasciatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e262"
+  },
+  "Nom_francais": "Sébaste orangé",
+  "Nom_anglais": "Golden Redfish",
+  "Nom_scientifique": "Sebastes norvegicus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e263"
+  },
+  "Nom_francais": "Serrivomer trapu",
+  "Nom_anglais": "Stout Sawpalate",
+  "Nom_scientifique": "Serrivomer beanii"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e264"
+  },
+  "Nom_francais": "Sigouine de roche",
+  "Nom_anglais": "Rock Gunnel",
+  "Nom_scientifique": "Pholis gunnellus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e265"
+  },
+  "Nom_francais": "Sonneur",
+  "Nom_anglais": "Bigeye",
+  "Nom_scientifique": "Epigonus pandionis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e266"
+  },
+  "Nom_francais": "Stichée arctique",
+  "Nom_anglais": "Arctic Shanny",
+  "Nom_scientifique": "Stichaeus punctatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e267"
+  },
+  "Nom_francais": "Stromatée à fossettes",
+  "Nom_anglais": "Butterfish",
+  "Nom_scientifique": "Peprilus triacanthus",
+  "Commentaires": "Des individus hors de leur zone furent capturés en 2009 dans l'estuaire près de Kamouraska et de Rivière-Ouelle."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e268"
+  },
+  "Nom_francais": "Syngnathe brun",
+  "Nom_anglais": "Northern Pipefish",
+  "Nom_scientifique": "Syngnathus fuscus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e269"
+  },
+  "Nom_francais": "Tanche",
+  "Nom_anglais": "Tench",
+  "Nom_scientifique": "Tinca tinca",
+  "Commentaires": "Introduction accidentelle; au Québec cette espèce fait l'objet de mesures de restriction d'usage car c'est un poisson introduit d'Europe qui est très dommageable pour la faune locale."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e26a"
+  },
+  "Nom_francais": "Tanche-tautogue",
+  "Nom_anglais": "Cunner",
+  "Nom_scientifique": "Tautogolabrus adspersus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e26b"
+  },
+  "Nom_francais": "Terrassier tâcheté",
+  "Nom_anglais": "Wrymouth",
+  "Nom_scientifique": "Cryptacanthodes maculatus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e26c"
+  },
+  "Nom_francais": "Thon rouge",
+  "Nom_anglais": "Bluefin Tuna",
+  "Nom_scientifique": "Thunnus thynnus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e273"
+  },
+  "Nom_francais": "Touladi",
+  "Nom_anglais": "Lake Trout",
+  "Nom_scientifique": "Salvelinus namaycush"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e274"
+  },
+  "Nom_francais": "Tricorne arctique",
+  "Nom_anglais": "Arctic Staghorn Sculpin",
+  "Nom_scientifique": "Gymnocanthus tricuspis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e275"
+  },
+  "Nom_francais": "Truite arc-en-ciel",
+  "Nom_anglais": "Rainbow Trout",
+  "Nom_scientifique": "Oncorhynchus mykiss",
+  "Commentaires": "Cette espèce originaire des côtes Pacifique Nord a été libérée volontairement pour la pêche."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e279"
+  },
+  "Nom_francais": "Truite brune",
+  "Nom_anglais": "Brown Trout",
+  "Nom_scientifique": "Salmo trutta",
+  "Commentaires": "Cette espèce est originaire d'Eurasie et a été introduite volontairement pour la pêche."
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e27e"
+  },
+  "Nom_francais": "Turbot de sable",
+  "Nom_anglais": "Windowpane",
+  "Nom_scientifique": "Scophthalmus aquosus"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e282"
+  },
+  "Nom_francais": "Ulvaire deux-lignes",
+  "Nom_anglais": "Radiated Shanny",
+  "Nom_scientifique": "Ulvaria subbifurcata"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e283"
+  },
+  "Nom_francais": "Umbre de vase",
+  "Nom_anglais": "Central Mudminnow",
+  "Nom_scientifique": "Umbra limi"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e284"
+  },
+  "Nom_francais": "Unernak aurore",
+  "Nom_anglais": "Aurora Pout",
+  "Nom_scientifique": "Gymnelus retrodorsalis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e285"
+  },
+  "Nom_francais": "Unernak caméléon",
+  "Nom_anglais": "Fish Doctor",
+  "Nom_scientifique": "Gymnelus viridis"
+},
+{
+  "_id": {
+    "$oid": "68debd4021cf54e21d16e286"
+  },
+  "Nom_anglais": "West Atlantic (silver) deepsea herring",
+  "Nom_scientifique": "Neobathyclupea argentea"
+}]

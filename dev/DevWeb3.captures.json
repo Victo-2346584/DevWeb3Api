@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "693dca2e5ba79240f097fa1a"
+  },
+  "espece": "Omble de fontaine",
+  "tailleCm": 60,
+  "poidsKg": 2,
+  "dateCapture": {
+    "$date": "2024-10-10T00:00:00.000Z"
+  },
+  "remisALeau": true,
+  "technique": "Mouche sèche",
+  "lieu": "Rivière Montmorency",
+  "conditionsMeteo": "Partiellement nuageux",
+  "temperatureEau": 11,
+  "notes": [
+    "Très belle couleur"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693de5a0b998be3c20ba2918"
+  },
+  "espece": "Omble de fontaine",
+  "tailleCm": 39,
+  "poidsKg": 1.1,
+  "dateCapture": {
+    "$date": "2024-10-10T00:00:00.000Z"
+  },
+  "remisALeau": true,
+  "technique": "Mouche sèche",
+  "lieu": "Rivière Montmorency",
+  "conditionsMeteo": "Partiellement nuageux",
+  "temperatureEau": 11,
+  "notes": [
+    "Très belle couleur"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693de7e6b20abeb7f37d8016"
+  },
+  "espece": "test",
+  "tailleCm": 39,
+  "poidsKg": 1.1,
+  "dateCapture": {
+    "$date": "2024-10-10T00:00:00.000Z"
+  },
+  "remisALeau": true,
+  "technique": "Mouche sèche",
+  "lieu": "Rivière Montmorency",
+  "conditionsMeteo": "Partiellement nuageux",
+  "temperatureEau": 11,
+  "notes": [
+    "Très belle couleur"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f02fad8f259cf9cea4116"
+  },
+  "espece": "test",
+  "tailleCm": 39,
+  "poidsKg": 1.1,
+  "dateCapture": {
+    "$date": "2024-10-10T00:00:00.000Z"
+  },
+  "remisALeau": true,
+  "technique": "Mouche sèche",
+  "lieu": "Rivière Montmorency",
+  "conditionsMeteo": "Partiellement nuageux",
+  "temperatureEau": 11,
+  "notes": [
+    "Très belle couleur"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693f1ce660d9982ebfae3fde"
+  },
+  "espece": "test",
+  "tailleCm": 39,
+  "poidsKg": 1.1,
+  "dateCapture": {
+    "$date": "2024-10-10T00:00:00.000Z"
+  },
+  "remisALeau": true,
+  "technique": "Mouche sèche",
+  "lieu": "Rivière Montmorency",
+  "conditionsMeteo": "Partiellement nuageux",
+  "temperatureEau": 11,
+  "notes": [
+    "Très belle couleur"
+  ],
+  "__v": 0
+}]
