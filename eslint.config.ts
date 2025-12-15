@@ -1,17 +1,19 @@
+import { defineConfig } from 'eslint/config';
 import eslint from '@eslint/js';
 import tseslint from 'typescript-eslint';
-import stylistic from '@stylistic/eslint-plugin';
+import stylisticJs from '@stylistic/eslint-plugin';
 import nodePlugin from 'eslint-plugin-n';
-import { defineConfig } from 'eslint/config';
 
-export default defineConfig(
+export default defineConfig([
   eslint.configs.recommended,
   nodePlugin.configs['flat/recommended-script'],
   ...tseslint.configs.strictTypeChecked,
   ...tseslint.configs.stylisticTypeChecked,
+
   {
     ignores: ['**/node_modules/*', '**/*.mjs', '**/*.js'],
   },
+
   {
     languageOptions: {
       parserOptions: {
@@ -20,14 +22,18 @@ export default defineConfig(
       },
     },
   },
+
   {
     plugins: {
-      '@stylistic': stylistic,
+      '@stylistic/js': stylisticJs,
+      '@stylistic/ts': stylisticJs,
     },
   },
+
   {
     files: ['**/*.ts'],
   },
+
   {
     rules: {
       '@typescript-eslint/explicit-member-accessibility': 'warn',
@@ -43,44 +49,21 @@ export default defineConfig(
         'warn',
         { allowNumberAndString: true },
       ],
-      '@typescript-eslint/no-unused-vars': [
-        'warn',
-        {
-          argsIgnorePattern: '^_',
-          varsIgnorePattern: '^_',
-        },
-      ],
+      '@typescript-eslint/no-unused-vars': 'warn',
       '@typescript-eslint/no-unsafe-enum-comparison': 0,
       '@typescript-eslint/no-unnecessary-type-parameters': 0,
-      '@stylistic/no-extra-semi': 'warn',
-      'max-len': [
+      '@stylistic/js/no-extra-semi': 'warn',
+      'max-len': ['warn', { code: 80 }],
+      '@stylistic/ts/semi': ['warn', 'always'],
+      '@stylistic/ts/member-delimiter-style': [
         'warn',
         {
-          code: 80,
-        },
-      ],
-      '@stylistic/semi': ['warn', 'always'],
-      '@stylistic/member-delimiter-style': [
-        'warn',
-        {
-          multiline: {
-            delimiter: 'comma',
-            requireLast: true,
-          },
-          singleline: {
-            delimiter: 'comma',
-            requireLast: false,
-          },
+          multiline: { delimiter: 'comma', requireLast: true },
+          singleline: { delimiter: 'comma', requireLast: false },
           overrides: {
             interface: {
-              singleline: {
-                delimiter: 'semi',
-                requireLast: false,
-              },
-              multiline: {
-                delimiter: 'semi',
-                requireLast: true,
-              },
+              singleline: { delimiter: 'semi', requireLast: false },
+              multiline: { delimiter: 'semi', requireLast: true },
             },
           },
         },
@@ -98,4 +81,4 @@ export default defineConfig(
       'prefer-const': 'warn',
     },
   },
-);
+]);
